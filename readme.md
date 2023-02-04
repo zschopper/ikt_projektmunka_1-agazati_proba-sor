@@ -1,6 +1,8 @@
 
 # Sör
 
+[view page](https://zschopper.github.io/ikt_projektmunka_1-agazati_proba-sor/)  
+
 ![](docs/sample1.png)
 
 ## Elkészítendő a mintán szereplő weboldal
