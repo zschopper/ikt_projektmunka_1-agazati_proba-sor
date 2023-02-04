@@ -1,5 +1,5 @@
 body {
-  background-image: url(/assets/img/teglafal.jpg);
+  background-image: url("../img/teglafal.jpg");
   font-family: Arial, Verdana, sans-serif;
 }
 
@@ -20,7 +20,7 @@ body {
 
 header {
   grid-area: h;
-  background-image: url("/assets/img/beer-new_401732638.jpg");
+  background-image: url("../img/beer-new_401732638.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 300px;
